@@ -1,0 +1,15 @@
+[submodule "interactive_slam"]
+	path = interactive_slam
+	url = https://github.com/dbaldzhiev/interactive_slam.git
+[submodule "odometry_saver"]
+	path = odometry_saver
+	url = https://github.com/dbaldzhiev/odometry_saver.git
+[submodule "fast_gicp"]
+	path = fast_gicp
+	url = https://github.com/SMRT-AIST/fast_gicp
+[submodule "hdl_graph_slam"]
+	path = hdl_graph_slam
+	url = https://github.com/koide3/hdl_graph_slam
+[submodule "ndt_omp"]
+	path = ndt_omp
+	url = https://github.com/koide3/ndt_omp
